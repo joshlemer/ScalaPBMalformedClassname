@@ -1,0 +1,8 @@
+### IntelliJ ###
+/.idea/
+# End of IntelliJ
+
+### SBT, Scala ###
+/target/
+/project/project/
+/project/target/
